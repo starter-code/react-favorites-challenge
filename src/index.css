@@ -1,0 +1,35 @@
+.App {
+  font-family: sans-serif;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.grid-item {
+  margin: 10px;
+  flex-basis: 20%;
+  text-align: center;
+}
+
+.grid-item > img {
+  height: 100px;
+  max-width: 100px;
+  object-fit: cover;
+}
+
+.name {
+  text-align: center;
+}
+
+.name::first-letter {
+  text-transform: capitalize;
+}
+
+.favorites {
+  border: 2px solid green;
+  min-height: 100px;
+  text-align: center;
+}

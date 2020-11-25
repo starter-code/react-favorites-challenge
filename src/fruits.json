@@ -1,0 +1,221 @@
+{
+  "fruits": [
+    {
+      "name": "acerola",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2014/12/acerola_small.gif",
+      "price": 1,
+      "origin": "Europe",
+      "rating": 4
+    },
+    {
+      "name": "apricot",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2015/01/apricot_small.jpg",
+      "price": 5,
+      "origin": "Australia",
+      "rating": 1
+    },
+    {
+      "name": "avocado",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2015/01/avocado_small.jpg",
+      "price": 10,
+      "origin": "North America",
+      "rating": 4
+    },
+    {
+      "name": "banana",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2015/01/banana_small.gif",
+      "price": 2,
+      "origin": "Africa",
+      "rating": 3
+    },
+    {
+      "name": "blackberry",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2019/03/BlackberrySmall.jpg",
+      "price": 5,
+      "origin": "South America",
+      "rating": 2
+    },
+    {
+      "name": "black currant",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2015/01/blackcurrant_small.gif",
+      "price": 5,
+      "origin": "Africa",
+      "rating": 4
+    },
+    {
+      "name": "blueberries",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2015/01/blueberries_small.jpg",
+      "price": 9,
+      "origin": "Asia",
+      "rating": 4
+    },
+    {
+      "name": "breadfruit",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2015/01/breadfruit_small.gif",
+      "price": 25,
+      "origin": "North America",
+      "rating": 3
+    },
+    {
+      "name": "cantaloupe",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2015/01/cantaloupe_small.gif",
+      "price": 8,
+      "origin": "Australia",
+      "rating": 1
+    },
+    {
+      "name": "carambola",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2015/01/carambola_small.jpg",
+      "price": 1,
+      "origin": "South America",
+      "rating": 2
+    },
+    {
+      "name": "cherimoya",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2015/01/cherimoya_small.gif",
+      "price": 9,
+      "origin": "South America",
+      "rating": 2
+    },
+    {
+      "name": "cherries",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2015/01/cherries_small.jpg",
+      "price": 25,
+      "origin": "Africa",
+      "rating": 2
+    },
+    {
+      "name": "clementine",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2015/01/clementine_small.gif",
+      "price": 100,
+      "origin": "South America",
+      "rating": 3
+    },
+    {
+      "name": "coconut",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2015/01/coconutmeat_small.gif",
+      "price": 5,
+      "origin": "Asia",
+      "rating": 3
+    },
+    {
+      "name": "cranberries",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2017/03/Cranberriesforwebsite1.jpg",
+      "price": 1,
+      "origin": "Africa",
+      "rating": 4
+    },
+    {
+      "name": "custard apple",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2015/01/custardapple_small.gif",
+      "price": 4,
+      "origin": "Europe",
+      "rating": 1
+    },
+    {
+      "name": "date",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2015/01/datefruit_small.gif",
+      "price": 4,
+      "origin": "South America",
+      "rating": 1
+    },
+    {
+      "name": "durian",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2015/01/durian_samll.gif",
+      "price": 3,
+      "origin": "Asia",
+      "rating": 2
+    },
+    {
+      "name": "elderberries",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2015/01/elderberries_small.gif",
+      "price": 10,
+      "origin": "North America",
+      "rating": 4
+    },
+    {
+      "name": "feijoa",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2015/01/feijoa_small.gif",
+      "price": 5,
+      "origin": "South America",
+      "rating": 2
+    },
+    {
+      "name": "fig",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2015/01/fig_small.gif",
+      "price": 7,
+      "origin": "Europe",
+      "rating": 2
+    },
+    {
+      "name": "gooseberries",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2015/01/gooseberries_small.gif",
+      "price": 9,
+      "origin": "South America",
+      "rating": 2
+    },
+    {
+      "name": "grapefruit",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2015/01/grapefruit_samll.gif",
+      "price": 100,
+      "origin": "Europe",
+      "rating": 3
+    },
+    {
+      "name": "grapes",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2015/01/grapes_small.jpg",
+      "price": 100,
+      "origin": "Australia",
+      "rating": 2
+    },
+    {
+      "name": "guava",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2015/01/guava_small.jpg",
+      "price": 15,
+      "origin": "Africa",
+      "rating": 4
+    },
+    {
+      "name": "honeydew",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2015/01/honeydewmelon_small.gif",
+      "price": 3,
+      "origin": "North America",
+      "rating": 3
+    },
+    {
+      "name": "jackfruit",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2015/01/jackfruit_small.gif",
+      "price": 10,
+      "origin": "Australia",
+      "rating": 3
+    },
+    {
+      "name": "plum",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2015/01/javplum_small.gif",
+      "price": 7,
+      "origin": "Australia",
+      "rating": 4
+    },
+    {
+      "name": "jujube",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2015/01/jujube_small.gif",
+      "price": 50,
+      "origin": "Europe",
+      "rating": 4
+    },
+    {
+      "name": "kiwi",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2015/01/kiwi_small.gif",
+      "price": 5,
+      "origin": "Australia",
+      "rating": 4
+    },
+    {
+      "name": "watermelon",
+      "imgURL": "https://halfyourplate-4kgxi1gvwldjzby.stackpathdns.com/wp-content/uploads/2015/01/watermelon_small.gif",
+      "price": 2,
+      "origin": "North America",
+      "rating": 3
+    }
+  ]
+}

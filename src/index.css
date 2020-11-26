@@ -1,5 +1,44 @@
-.App {
+.app {
   font-family: sans-serif;
+}
+
+.button {
+  position: absolute;
+  background: none;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.button.add {
+  right: 0;
+}
+
+.button.add:active svg {
+  fill: green;
+}
+
+.button.remove {
+  left: 0;
+}
+
+.button.remove:active svg {
+  fill: red;
+}
+
+.button svg {
+  width: 32px;
+  height: 32px;
+}
+
+.centered {
+  text-align: center;
+}
+
+.favorites {
+  border: 2px solid green;
+  min-height: 100px;
+  text-align: center;
 }
 
 .grid {
@@ -12,6 +51,9 @@
   margin: 10px;
   flex-basis: 20%;
   text-align: center;
+  border: 2px solid black;
+  border-radius: 10px;
+  max-width: 150px;
 }
 
 .grid-item > img {
@@ -20,16 +62,14 @@
   object-fit: cover;
 }
 
+.img-container {
+  position: relative;
+}
+
 .name {
   text-align: center;
 }
 
 .name::first-letter {
   text-transform: capitalize;
-}
-
-.favorites {
-  border: 2px solid green;
-  min-height: 100px;
-  text-align: center;
 }

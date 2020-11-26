@@ -11,6 +11,7 @@ export default function App() {
         <ul>
           <li>A user can click on a button to add fruits to a favorites</li>
           <li>A user can click on a button to remove fruits to a favorites</li>
+          <li>Favorited fruits should appear in the Favorites container</li>
         </ul>
       </div>
       <Favorites />
